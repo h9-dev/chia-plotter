@@ -1,2 +1,2 @@
-# chia-plotter
-The plotter for Chia.
+# Chia Plotter
+More details see https://github.com/hpool-dev/chia-plotter/releases
