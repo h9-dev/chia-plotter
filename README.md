@@ -1,6 +1,7 @@
 # Chia Plotter
 
 The Chia pool  mining signature and plotting tools.
+
 If you have any questions or need technical support, please contact the official customer service WeChat: 17717291449
 
 - The plotting tool use the official [ProofOfSpace](https://github.com/Chia-Network/chiapos), which can avoid exposing the wallet private key to the plotting machine;
